@@ -1,6 +1,8 @@
 # Cirrus
 Low-cost PCB for flight control and logging purposes for small UAV-s
+
 For PCB design learning, and embedded programming
+
 EasyEDA was used for the eCAD work
 
 ## V1
@@ -24,6 +26,7 @@ Interfaces exposed with pads for soldered wired connections.
 
 ### Manufacturing
 4 layers with signal-ground-ground-signal
+
 One sided assembly
 
 ![PCB top and bottom](PCB.png "PCB top and bottom picture")

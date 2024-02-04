@@ -22,5 +22,9 @@ EasyEDA was used for the eCAD work
 ### Interfaces
 Interfaces exposed with pads for soldered wired connections.
 
-### Layer stackup
+### Manufacturing
 4 layers with signal-ground-ground-signal
+One sided assembly
+
+![PCB top and bottom](PCB.png "PCB top and bottom picture")
+

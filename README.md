@@ -31,3 +31,21 @@ One sided assembly
 
 ![PCB top and bottom](PCB.png "PCB top and bottom picture")
 
+
+## V2
+
+### Pinout
+
+- STM32L431 -> for more interrupts and DMAs
+- 16MHz chrystal resonator (issues fixed)
+- Debug changed for pads
+- 6 PWM added 5V rail for power
+- Power LEDs added
+- User LEDs added
+
+### Interfaces
+Connection pads made smaller (made it very challenging to solder by hand)
+
+Form factor changed to include two mounting holes aligned with conventional 30.5mm x 30.5mm flight controller pattern.
+
+![PCB top and bottom](PCB2.png "PCB top and bottom picture")
